@@ -1,7 +1,7 @@
 # Hi, I’m Faris! 👋  
-📅 Second Year **Computer Engineering Student**
-👀 I’m interested in **Internet of Things (IoT) & UI/UX**  
-🌱 I’m currently learning **IoT Development** 
+📅 Second Year **Computer Engineering Student**<br>
+👀 I’m interested in **Internet of Things (IoT) & UI/UX**<br>
+🌱 I’m currently learning **IoT Development**
 
 <!---
 fanTaux/fanTaux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
