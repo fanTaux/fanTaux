@@ -1,5 +1,5 @@
 # Hi, I’m Faris! 👋  
-📅 Second Year **Computer Engineering Student**<br>
+📅 Third Year **Computer Engineering Student**<br>
 👀 I’m interested in **Internet of Things (IoT) & UI/UX**<br>
 🌱 I’m currently learning **IoT Development**
 
