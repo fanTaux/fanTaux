@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **farisarinanta11@gmail.com**
 
-- ⚡ Fun fact **I remember all of Europe flags.**
+- ⚡ Fun fact **I remember all of Europe flags.** (still working out on remembering all of Asia flags)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
