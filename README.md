@@ -1,13 +1,12 @@
 # Hi 👋, I'm Faris Arinanta
 
-### IoT Engineer and Data Enthusiast
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats-three-bay-63.vercel.app?user=fanTaux&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
+### IoT Engineer and Data Enthusiast
 
 - 🔭 I'm currently working on **IoT Projects**
 - 🌱 I'm currently learning **IoT Engineering and Data Analytics**
