@@ -29,8 +29,3 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-three-bay-63.vercel.app?user=fanTaux&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
