@@ -9,7 +9,7 @@
 - ⚡ Fun fact **I remember all of Europe flags.** (still working out on remembering all of Asia flags)
 
 ### Connect with me:
-<a href="https://github.com/fanTaux" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>&nbsp;<a href="https://linkedin.com/in/farisarinanta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+[<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>](https://github.com/fanTaux) [<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>](https://linkedin.com/in/farisarinanta)
 
 ### Languages and Tools:
 <img src="https://skillicons.dev/icons?i=arduino,cpp,css,figma,html,matlab,mysql,postgres,py" alt="My Skills" />
