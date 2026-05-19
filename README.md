@@ -14,11 +14,11 @@
 [<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>](https://github.com/fanTaux) [<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>](https://linkedin.com/in/farisarinanta)
 
 ### Languages and Tools:
+<div align="center">
 <img src="https://skillicons.dev/icons?i=arduino,cpp,py,matlab,mysql,postgres,mongodb,html,css,js,react" alt="Languages and Tools" />
+</div>
 
 ### Multimedia Tools:
-<img src="https://skillicons.dev/icons?i=figma,pr,canva" alt="Multimedia Tools" />
-
-*Figma • Adobe Premiere Pro • Canva • Movavi Editor • Tableau*
+<img src="https://skillicons.dev/icons?i=figma,pr" alt="Multimedia Tools" />
 
 </div>
